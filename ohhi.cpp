@@ -3,7 +3,7 @@
  *
  * EECS 183, Winter 2015
  * Project 3: 0h h1
- *ayy lmao
+ *
  * John Paul Imperial, Jacob Rich
  * jpimp, jacobjdr
  *
